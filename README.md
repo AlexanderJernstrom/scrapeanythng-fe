@@ -1,30 +1,22 @@
-# React + TypeScript + Vite
+# Scrapeanything - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## The project
 
-Currently, two official plugins are available:
+Scrape anything on the web. Enter URL and what you want to scrape and the program automatically extracts it for you!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Roadmap / Upcoming features
 
-## Expanding the ESLint configuration
+- Conversations
+- Save conversations
+- Structured data extraction
+- Streaming
+- Handling of larger webpages
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## How to run
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Setup backend repo
+2. Set the API url in `src/lib/api.ts`
+3. Run `nvm use` to get the right correct Node version
+4. Run `yarn` to install packages
+5. Start the dev server with `yarn dev`
+6. Congrats, should be up and running! 🎉🎉🎉🎉🎉🎉🎉
