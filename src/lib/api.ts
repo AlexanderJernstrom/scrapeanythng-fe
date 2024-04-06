@@ -1,4 +1,4 @@
-export const apiURL = "http://localhost:5001";
+export const apiURL = import.meta.env.VITE_API_URL || "http://localhost:5001";
 
 export const fetchText = async (url: string, prompt: string) => {
   try {
