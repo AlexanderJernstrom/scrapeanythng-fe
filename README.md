@@ -20,7 +20,7 @@ In very early stages so it is a bit rough around the edges.
 
 ## How to run
 
-1. Setup backend repo
+1. [Setup backend repo](https://github.com/AlexanderJernstrom/scrapeanythng-be?tab=readme-ov-file#how-to-run)
 2. Set the API url in `src/lib/api.ts`
 3. Run `nvm use` to get the right correct Node version
 4. Run `yarn` to install packages
