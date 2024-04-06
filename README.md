@@ -4,6 +4,9 @@
 
 Scrape anything on the web. Enter URL and what you want to scrape and the program automatically extracts it for you!
 
+![image](https://github.com/AlexanderJernstrom/scrapeanythng-fe/assets/46424392/13f397dd-44e2-450b-be84-d37448789491)
+
+
 ## Roadmap / Upcoming features
 
 - Conversations
