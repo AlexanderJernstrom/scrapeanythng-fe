@@ -3,10 +3,8 @@
 ## The project
 
 Scrape anything on the web. Enter URL and what you want to scrape and the program automatically extracts it for you!
+![ezgif-4-d03cb6233e](https://github.com/AlexanderJernstrom/scrapeanythng-fe/assets/46424392/e052a2b0-9015-4e55-a783-5fd477e58262)
 
-![image](https://github.com/AlexanderJernstrom/scrapeanythng-fe/assets/46424392/13f397dd-44e2-450b-be84-d37448789491)
-
-![ezgif-4-f7979a5d74](https://github.com/AlexanderJernstrom/scrapeanythng-fe/assets/46424392/b7c44880-0dc9-410b-aafb-af2957764bf6)
 
 ## Roadmap / Upcoming features
 
